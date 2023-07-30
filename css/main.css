@@ -136,6 +136,7 @@ main p {
 
 p span {
     font-family: 'Lora', sans-serif;
+    font-weight: bold;
   }  
 
 .flex-container {
@@ -159,7 +160,7 @@ footer {
   }
   
 footer i {
-    padding: 30px 20px 0 0;
+    padding: 30px 20px 20px 0;
 }
 
 /* ==========================================================================
